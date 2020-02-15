@@ -1,0 +1,33 @@
+#img {
+    transform:rotate(90deg);
+    max-width: 200px;
+    height: auto;
+}
+
+.topheader {
+    width: 960px;
+    margin: 0 auto;
+}
+
+save {
+    float: left;
+}
+
+#bottonheader {
+    float: left
+}
+
+h1 {
+    float: left;
+    background-color: blue;
+}
+
+.directory {
+    float: right;
+}
+
+#biosquare {
+    float: left;
+    float: clear;
+
+}
